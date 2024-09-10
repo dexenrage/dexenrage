@@ -43,47 +43,66 @@ In my free time, I enjoy video games, movies, music and travel, as well as anime
 
 ### Technologies & Tools
 
-- **C++:**
-  - STL (Standard Template Library)
-  - Boost
-  - Windows API
-  - Direct memory management
-  - Google Test (gtest)
-  - Google Benchmark
-  - SQLite ORM
-  - Qt
-  - CMake
+<details>
+<summary>C++</summary>
 
+- STL (Standard Template Library)
+- Boost
+- Windows API
+- Direct memory management
+- Google Test (gtest)
+- Google Benchmark
+- SQLite ORM
+- Qt
+- CMake
 
-- **Go:**
-  - Standard Library
-  - Protobuf + GRPC
-  - Gin (web franework)
-  - Bun ORM
-  - Koanf + pflag
-  - go-echarts
-  - Go Modules
-  - Go Testing
-  
-- **Operating Systems:**
-  - Windows
-  - Linux
+</details>
 
-- **Databases:**
-  - MySQL
-  - PostgreSQL
-  - SQLite
-  - MongoDB
-  - Redis
-    
-- **Other Tools:**
-  - Docker
-  - Nginx
-  - Git
-  - VirtualBox
-  - Microsoft Visual Studio
-  - Qt Creator
-  - VSCode
+<details>
+<summary>Go</summary>
+
+- Standard Library
+- Protobuf + GRPC
+- Gin (web framework)
+- Bun ORM
+- Koanf + pflag
+- go-echarts
+- Go Modules
+- Go Testing
+
+</details>
+
+<details>
+<summary>Operating Systems</summary>
+
+- Windows
+- Linux
+
+</details>
+
+<details>
+<summary>Databases</summary>
+
+- MySQL
+- PostgreSQL
+- SQLite
+- MongoDB
+- Redis
+
+</details>
+
+<details>
+<summary>Other Tools</summary>
+
+- Docker
+- Nginx
+- Git
+- VirtualBox
+- Microsoft Visual Studio
+- Qt Creator
+- VSCode
+
+</details>
 
 Feel free to connect with me and explore my projects!
 
